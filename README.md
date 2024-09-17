@@ -1,4 +1,4 @@
-# Note for this Repo
+# Note for this repository
 This repository serves as a comprehensive wrap-up of the crucial code used in our enclosed manuscripts. All code utilized in this study is open-source. The repository is designed solely to facilitate the review process for reviewers during peer review, and it is not intended to develop a user-friendly post-GWAS pipeline. The repository includes:
 
 - 0: Basic utility: Manhattan plot、Liftover...
